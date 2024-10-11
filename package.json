@@ -101,7 +101,7 @@
     "dotenv": "^10.0.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-react-hooks": "^5.0.0",
     "extract-react-intl-messages": "^4.1.1",
     "husky": "^7.0.4",
     "imagemin-lint-staged": "^0.4.0",
