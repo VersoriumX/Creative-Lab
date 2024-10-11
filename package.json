@@ -61,7 +61,7 @@
     "react-scripts": "^5.0.1",
     "react-share": "^4.4.0",
     "react-swipeable": "^6.2.0",
-    "react-tooltip": "^4.2.21",
+    "react-tooltip": "^5.28.0",
     "reflect-metadata": "^0.2.2",
     "serve": "^13.0.2",
     "strip-hex-prefix": "^1.0.0",
