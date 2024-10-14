@@ -104,7 +104,7 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "extract-react-intl-messages": "^4.1.1",
     "husky": "^7.0.4",
-    "imagemin-lint-staged": "^0.4.0",
+    "imagemin-lint-staged": "^0.5.1",
     "lint-staged": "^11.2.3",
     "node-sass": "^9.0.0",
     "prettier": "^2.4.1",
