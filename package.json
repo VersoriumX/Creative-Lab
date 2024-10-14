@@ -40,7 +40,7 @@
     "@web3-react/portis-connector": "^6.1.9",
     "@web3-react/torus-connector": "^6.1.9",
     "@web3-react/walletlink-connector": "^6.2.14",
-    "classnames": "^2.3.1",
+    "classnames": "^2.5.1",
     "d3-array": "^3.1.1",
     "dayjs": "^1.10.7",
     "ethereumjs-tx": "^2.1.2",
