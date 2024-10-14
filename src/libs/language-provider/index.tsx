@@ -56,10 +56,11 @@ export function LanguageProvider({ children }: LanguageProviderProps) {
   dayjs.locale(currentLang === 'zh' ? 'zh-cn' : currentLang);
 
   useEffect(() => {
-    if (!messages[currentLang])
+    if (!messages[currentLang] && messageLoader.hasOwnProperty(currentLang)) {
       messageLoader[currentLang]?.().then((messages) =>
         setMessages((cache: any) => ({ ...cache, [currentLang]: messages }))
       );
+    }
   }, [currentLang]);
 
   return (
