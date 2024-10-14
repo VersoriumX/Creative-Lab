@@ -84,7 +84,7 @@
     "@types/classnames": "^2.3.1",
     "@types/d3-array": "^3.0.2",
     "@types/intl": "^1.2.0",
-    "@types/jest": "^27.0.2",
+    "@types/jest": "^29.5.13",
     "@types/ledgerhq__hw-transport": "^4.21.4",
     "@types/ledgerhq__hw-transport-webusb": "^4.70.1",
     "@types/node": "^22.7.5",
