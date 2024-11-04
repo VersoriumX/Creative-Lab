@@ -23,7 +23,7 @@
     "@sentry/browser": "^7.119.1",
     "@transak/transak-sdk": "^1.0.29",
     "@visx/axis": "^3.10.1",
-    "@visx/curve": "^2.1.0",
+    "@visx/curve": "^3.3.0",
     "@visx/event": "^3.3.0",
     "@visx/grid": "^3.5.0",
     "@visx/group": "^2.1.0",
