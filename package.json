@@ -20,7 +20,7 @@
     "@myetherwallet/mewconnect-web-client": "^2.1.22",
     "@nash-io/ramp-widget-sdk": "^0.2.2",
     "@ramp-network/ramp-instant-sdk": "^2.4.8",
-    "@sentry/browser": "^7.119.1",
+    "@sentry/browser": "^8.38.0",
     "@transak/transak-sdk": "^1.0.29",
     "@visx/axis": "^3.10.1",
     "@visx/curve": "^3.3.0",
