@@ -74,7 +74,7 @@
   "devDependencies": {
     "@ethersproject/experimental": "5.7.0",
     "@graphql-codegen/cli": "^5.0.3",
-    "@graphql-codegen/fragment-matcher": "^3.1.0",
+    "@graphql-codegen/fragment-matcher": "^5.0.2",
     "@graphql-codegen/typescript": "^4.1.0",
     "@graphql-codegen/typescript-operations": "^2.1.8",
     "@graphql-codegen/typescript-react-apollo": "^4.3.2",
