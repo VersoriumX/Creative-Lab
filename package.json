@@ -98,7 +98,7 @@
     "customize-cra": "^1.0.0",
     "cypress": "^13.16.0",
     "cypress-repeat": "^2.3.7",
-    "dotenv": "^10.0.0",
+    "dotenv": "^16.4.5",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react-hooks": "^5.0.0",
