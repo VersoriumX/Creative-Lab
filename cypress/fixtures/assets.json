@@ -6,28 +6,28 @@
       "collateral": true
     },
     "DAI": {
-      "fullName": "DAI (DAI.e)",
-      "shortName": "DAI.e",
+      "fullName": "DAI (DAI)",
+      "shortName": "DAI",
       "collateral": true
     },
     "USDC": {
-      "fullName": "USD Coin (USDC.e)",
-      "shortName": "USDC.e",
+      "fullName": "USD Coin (USDC)",
+      "shortName": "USDC",
       "collateral": true
     },
     "USDT": {
-      "fullName": "USDT Coin (USDT.e)",
-      "shortName": "USDT.e",
+      "fullName": "USDT Coin (USDT)",
+      "shortName": "USDT",
       "collateral": false
     },
     "WBTC": {
-      "fullName": "WBTC Coin (WBTC.e)",
-      "shortName": "WBTC.e",
+      "fullName": "WBTC Coin (WBTC)",
+      "shortName": "WBTC",
       "collateral": true
     },
     "WETH": {
-      "fullName": "Wrapped ETH (WETH.e)",
-      "shortName": "WETH.e",
+      "fullName": "Wrapped ETH (WETH)",
+      "shortName": "WETH",
       "collateral": true
     }
   },
