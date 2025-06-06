@@ -17,7 +17,7 @@
     "@myetherwallet/mewconnect-connector": "^0.1.8",
     "@myetherwallet/mewconnect-web-client": "^2.1.22",
     "@nash-io/ramp-widget-sdk": "^0.2.2",
-    "@sentry/browser": "^1.119.2",
+    "@sentry/browser": "^7.119.1",
     "@visx/axis": "^2.1.2",
     "@visx/curve": "^2.1.0",
     "@visx/event": "^2.1.2",
