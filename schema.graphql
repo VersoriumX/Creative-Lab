@@ -16,7 +16,7 @@ type ProtocolData {
 }
 
 type Query {
-  protocolData(poolAddress: String!): ProtocolData!
+  protocolData(poolAddress: String!): ProtocolData! 
   userData(poolAddress: String!, userAddress: String!): UserData!
 }
 
