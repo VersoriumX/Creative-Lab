@@ -18,7 +18,7 @@
         "introspect": false
       },
       "TheGraph resolver": {
-        "url": "https://api.thegraph.com/subgraphs/name/aave/protocol-v2-kovan",
+        "url": "https://api.thegraph.com/subgraphs/name/aave/protocol-v2",
         "headers": {
           "user-agent": "JS GraphQL"
         },
